@@ -11,7 +11,7 @@
 | Pintura paredes/techo | 9.05.2017| 400|
 |Total | | 10300|
 
-# Cubierta
+# Cubierta (Pedro)
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
