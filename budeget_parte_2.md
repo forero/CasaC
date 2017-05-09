@@ -7,7 +7,9 @@
 | Lozas Ceramica | 12.04.2017 | 900|
 | Adelanto Mano de Obra | 24.04.2017 | 2000| 
 | Lozas Ceramica Cocina | 26.04.2017 | 200|
-|Total | | 9400|
+| Pegante lozas | 9.05.2017| 500|
+| Pintura paredes/techo | 9.05.2017| 400|
+|Total | | 10300|
 
 # Cubierta
 
