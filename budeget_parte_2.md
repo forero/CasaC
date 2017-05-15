@@ -9,7 +9,8 @@
 | Lozas Ceramica Cocina | 26.04.2017 | 200|
 | Pegante lozas | 9.05.2017| 500|
 | Pintura paredes/techo | 9.05.2017| 400|
-| Drywall + pegantes | 10.05.2017| 1000|
+| Drywall + pegantes | 10.05.2017| 500|
+| Arriendo Bodega (2 meses) | 10.05.2017| 500|
 |Total | | 11300|
 
 # Puertas/Ventanas/Cocina (Didier)
