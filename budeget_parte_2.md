@@ -9,11 +9,20 @@
 | Lozas Ceramica Cocina | 26.04.2017 | 200|
 | Pegante lozas | 9.05.2017| 500|
 | Pintura paredes/techo | 9.05.2017| 400|
-|Total | | 10300|
+| Drywall + pegantes | 10.05.2017| 1000|
+|Total | | 11300|
+
+# Puertas/Ventanas/Cocina (Didier)
+
+|Concepto | Fecha | Costo (KCOP)|
+| ------- | ------| ----------- |
+Adelanto 50% | 10.05.2017 | 7000|
+|Total | | 7000|
 
 # Cubierta (Pedro)
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
 |Adelanto Mano de Obra | 24.04.2017 | 2000|
-|Total | | 2000|
+|Pago Mano de Obra | 13.05.2017 | 1000
+|Total | | 3000|
