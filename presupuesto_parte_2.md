@@ -11,8 +11,9 @@
 | Pintura paredes/techo | 9.05.2017| 400|
 | Drywall + pegantes | 10.05.2017| 500|
 | Arriendo Bodega (2 meses) | 10.05.2017| 500|
+| Cambio Contador Electrico | 16.05.2017| 600|
 | Piso Patio | 18.05.2017|710|
-|Total | | 12010|
+|Total | | 12610|
 
 # Puertas/Ventanas/Cocina (Didier)
 
