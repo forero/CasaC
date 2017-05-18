@@ -11,7 +11,8 @@
 | Pintura paredes/techo | 9.05.2017| 400|
 | Drywall + pegantes | 10.05.2017| 500|
 | Arriendo Bodega (2 meses) | 10.05.2017| 500|
-|Total | | 11300|
+| Piso Patio | 18.05.2017|710|
+|Total | | 12010|
 
 # Puertas/Ventanas/Cocina (Didier)
 
