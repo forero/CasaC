@@ -12,9 +12,10 @@
 | Drywall + pegantes | 10.05.2017| 500|
 | Arriendo Bodega (2 meses) | 10.05.2017| 500|
 | Cambio Contador Electrico | 16.05.2017| 600|
-| Piso Patio | 18.05.2017|710|
+| Piso Patio | 18.05.2017|700|
 | Adelanto Madera Piso | 18.05.2017| 1000|
-|Total | | 13610|
+| Pago Completo Madera Piso | 19.05.2017| 2800|
+|Total | | 15400|
 
 # Puertas/Ventanas/Cocina (Didier)
 
