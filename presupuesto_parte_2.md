@@ -13,7 +13,8 @@
 | Arriendo Bodega (2 meses) | 10.05.2017| 500|
 | Cambio Contador Electrico | 16.05.2017| 600|
 | Piso Patio | 18.05.2017|710|
-|Total | | 12610|
+| Adelanto Madera Piso | 18.05.2017| 1000|
+|Total | | 13610|
 
 # Puertas/Ventanas/Cocina (Didier)
 
