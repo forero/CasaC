@@ -16,7 +16,8 @@
 | Adelanto Madera Piso | 18.05.2017| 1000|
 | Pago Completo Madera Piso | 19.05.2017| 2800|
 | Adelanto Materiales | 20.05.2017| 2000|
-|Total | | 17400|
+| Pago Mano de Obra | 24.05.2017 | 1000|
+|Total | | 18400|
 
 # Puertas/Ventanas/Cocina (Didier)
 
