@@ -21,7 +21,8 @@
 | Calentador | 31.05.2017| 400|
 | Lavadora | 31.05.2017| 2000|
 | Nevera | 31.05.2017|500|
-|Total | | 22500|
+| Separador Bano | 2.06.2017|750|
+|Total | | 23250|
 
 
 # Cubierta (Pedro)
@@ -37,6 +38,7 @@
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
-Adelanto 50% | 10.05.2017 | 7000|
-|Total | | 7000|
+|Adelanto 50% | 10.05.2017 | 7000|
+|Pago 25% | 2.06.2017| 3500|
+|Total | | 10500|
 
