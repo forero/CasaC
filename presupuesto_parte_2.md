@@ -22,7 +22,8 @@
 | Lavadora | 31.05.2017| 2000|
 | Nevera | 31.05.2017|500|
 | Separador Bano | 2.06.2017|750|
-|Total | | 23250|
+| Horno+Estufa | 3.06.2017 | 1500|
+|Total | | 24750|
 
 
 # Cubierta (Pedro)
