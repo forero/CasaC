@@ -1,4 +1,4 @@
-# Alvaro
+# Alvaro (Cotizacion 9000)
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
@@ -26,7 +26,7 @@
 |Total | | 25750|
 
 
-# Cubierta (Pedro)
+# Cubierta (Pedro) (Cotizacon 4000)
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
@@ -35,7 +35,7 @@
 | Vidrios | 31.05.2017 | 1400|
 |Total | | 4400|
 
-# Puertas/Ventanas/Cocina (Didier)
+# Puertas/Ventanas/Cocina (Didier) (Cotizacion 13880)
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
