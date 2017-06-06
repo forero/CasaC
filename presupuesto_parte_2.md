@@ -9,8 +9,6 @@
 | Lozas Ceramica Cocina | 26.04.2017 | 200|
 | Pegante lozas | 9.05.2017| 500|
 | Pintura paredes/techo | 9.05.2017| 400|
-| Drywall + pegantes (pagado x alvaro)| 10.05.2017| 500|
-| Arriendo Bodega (2 meses, pagado x alvaro) | 10.05.2017| 500|
 | Cambio Contador Electrico | 16.05.2017| 600|
 | Piso Patio | 18.05.2017|700|
 | Adelanto Madera Piso | 18.05.2017| 1000|
@@ -24,6 +22,12 @@
 | Separador Bano | 2.06.2017|750|
 | Horno+Estufa | 3.06.2017 | 1500|
 |Total | | 25750|
+
+# Pagos hechos por Alvaro 
+|Concepto | Fecha | Costo (KCOP)|
+| ------- | ------| ----------- |
+| Drywall + pegantes (pagado x alvaro)| 10.05.2017| 500|
+| Arriendo Bodega (2 meses, pagado x alvaro) | 10.05.2017| 500|
 
 
 # Cubierta (Pedro) (Cotizacon 4000)
