@@ -29,7 +29,7 @@
 | Nevera | 31.05.2017|500|
 | Separador Bano | 2.06.2017|750|
 | Horno+Estufa | 3.06.2017 | 1500|
-| Pago Materiales a Alvaro | 7.06.2017| 2500|
+| Pago Materiales a Alvaro | *7.06.2017*| 2500|
 |Total | | 27250|
 
 ### Pagos hechos por Alvaro 
@@ -63,7 +63,9 @@
 |Total | | 2500|
 
 
-# Pedro (Cubierta+ Biblioteca)
+# Pedro 
+
+### Cotizacion 
 |Concepto |Costo (KCOP)|
 | ------- | ----------- |
 | Pergola | 2500|
@@ -76,16 +78,26 @@
 | Vidrios | 1400|
 |Total |  6790|
 
-## Cubierta (Pedro) (Cotizacon 4000)
+### Pagos 
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
-| Adelanto ~50% | 24.04.2017 | 2000|
-| Pago ~25%| 13.05.2017 | 1000|
+| Adelanto ~50% Cubierta | 24.04.2017 | 2000|
+| Pago ~25% Cubierta| 13.05.2017 | 1000|
 | Vidrios 100% | 31.05.2017 | 1400|
-|Total | | 4400|
+| Pago ~25% Cubierta | *7.07.2017*| 1000|
+|Total | | 5400|
 
-# Didier (Puertas/Ventanas/Cocina)
+# Didier 
+
+### Cotizacion 
+|Concepto |Costo (KCOP)|
+| ------- | ----------- |
+| (Puertas/Ventanas/Cocina) | 13880|
+| Chapas | 200|
+| Poceta | 240|
+| Total | 14320| 
+
 
 # Puertas/Ventanas/Cocina (Didier) (Cotizacion 13880)
 
@@ -93,5 +105,6 @@
 | ------- | ------| ----------- |
 |Adelanto 50% | 10.05.2017 | 7000|
 |Pago 25% | 2.06.2017| 3500|
+| Pago Final | *7.07.2017* | 3820|
 |Total | | 10500|
 
