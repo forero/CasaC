@@ -22,14 +22,15 @@
 | Adelanto Madera Piso | 18.05.2017| 1000|
 | Pago Completo Madera Piso | 19.05.2017| 2800|
 | Pago Mano de Obra Alvaro| 20.05.2017| 2000|
-| Pago Mano de Obra Alvaro | 24.05.2017 | 1000|
+| Pago Materiales a Alvaro | 24.05.2017 | 1000|
 | Ducha-Lavamanos-tubos-etc | 31.05.2017| 1200|
 | Calentador | 31.05.2017| 400|
 | Lavadora | 31.05.2017| 2000|
 | Nevera | 31.05.2017|500|
 | Separador Bano | 2.06.2017|750|
 | Horno+Estufa | 3.06.2017 | 1500|
-|Total | | 24750|
+| Pago Materiales a Alvaro | 7.06.2017| 2500|
+|Total | | 27250|
 
 ## Pagos hechos por Alvaro 
 
