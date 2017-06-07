@@ -32,7 +32,7 @@
 | Pago Materiales a Alvaro | 7.06.2017| 2500|
 |Total | | 27250|
 
-## Pagos hechos por Alvaro 
+### Pagos hechos por Alvaro 
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
@@ -63,15 +63,26 @@
 |Total | | 2500|
 
 
-# Pedro (Cubierta)
+# Pedro (Cubierta+ Biblioteca)
+|Concepto |Costo (KCOP)|
+| ------- | ----------- |
+| Pergola | 2500|
+| Ventanas | 240|
+| Puerta| 600|
+| Reja puerta | 300|
+| Rejas Ventanas | 400|
+| Tubo nuevo | 450|
+| Biblioteca | 900|
+| Vidrios | 1400|
+|Total |  6790|
 
 ## Cubierta (Pedro) (Cotizacon 4000)
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
-| Adelanto Mano de Obra | 24.04.2017 | 2000|
-| Pago Mano de Obra 25%| 13.05.2017 | 1000|
-| Vidrios | 31.05.2017 | 1400|
+| Adelanto ~50% | 24.04.2017 | 2000|
+| Pago ~25%| 13.05.2017 | 1000|
+| Vidrios 100% | 31.05.2017 | 1400|
 |Total | | 4400|
 
 # Didier (Puertas/Ventanas/Cocina)
