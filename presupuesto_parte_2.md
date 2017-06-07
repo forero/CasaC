@@ -99,7 +99,7 @@
 | Total | 14320| 
 
 
-# Puertas/Ventanas/Cocina (Didier) (Cotizacion 13880)
+### Pagos
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
