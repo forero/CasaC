@@ -1,4 +1,12 @@
-# Alvaro (Cotizacion 9000)
+# Alvaro
+
+## Cotizacion
+|Concepto |Costo (KCOP)|
+| ------- | ----------- |
+|Mano de Obra |  9000|
+|Total |  9000|
+
+## Pagos Obra+Materiales
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
@@ -23,7 +31,8 @@
 | Horno+Estufa | 3.06.2017 | 1500|
 |Total | | 24750|
 
-# Pagos hechos por Alvaro 
+## Pagos hechos por Alvaro 
+
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
 | Drywall + pegantes (pagado x alvaro)| 10.05.2017| 500|
@@ -31,8 +40,9 @@
 |Total | | 1000|
 
 
+# Pedro (Cubierta)
 
-# Cubierta (Pedro) (Cotizacon 4000)
+## Cubierta (Pedro) (Cotizacon 4000)
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
@@ -40,6 +50,8 @@
 | Pago Mano de Obra 25%| 13.05.2017 | 1000|
 | Vidrios | 31.05.2017 | 1400|
 |Total | | 4400|
+
+# Didier (Puertas/Ventanas/Cocina)
 
 # Puertas/Ventanas/Cocina (Didier) (Cotizacion 13880)
 
