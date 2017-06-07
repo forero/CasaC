@@ -1,12 +1,12 @@
 # Alvaro
 
-## Cotizacion
+### Cotizacion
 |Concepto |Costo (KCOP)|
 | ------- | ----------- |
 |Mano de Obra |  9000|
 |Total |  9000|
 
-## Pagos Obra+Materiales
+### Pagos Obra+Materiales
 
 |Concepto | Fecha | Costo (KCOP)|
 | ------- | ------| ----------- |
