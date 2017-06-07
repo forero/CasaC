@@ -37,7 +37,29 @@
 | ------- | ------| ----------- |
 | Drywall + pegantes (pagado x alvaro)| 10.05.2017| 500|
 | Arriendo Bodega (2 meses, pagado x alvaro) | 10.05.2017| 500|
-|Total | | 1000|
+| Desescombro #1 | 7.06.2017| 220|
+| Desescombro #2 | 7.06.2017 | 150|
+| 2 sifones | 7.06.2017| 50|
+| Transporte mortero | 7.06.2017| 17|
+| Transporte pegacor | 7.06.2017| 20|
+| Transporte madera | 7.06.2017| 80|
+| Arriendo Bodega mes #3 | 7.06.2017| 250|
+| Materiales | 7.06.2017| 4|
+| Bulto pegacor | 7.06.2017| 46|
+| Pegamento piso | 7.06.2017| 184|
+| Impermeabilizado | 7.06.2017| 52|
+| Mortero + Varillas | 7.06.2017| 100|
+| Materiales | 7.06.2017| 6|
+| Codos | 7.06.2017| 22|
+| Coraza| 7.06.2017| 7|
+|Boquillera | 7.06.2017| 30|
+| Lonas | 7.06.2017| 125|
+| Tapones | 7.06.2017|6|
+| Candado | 7.06.2017| 20|
+| Thinner | 7.06.2017| 4|
+| Electricidad contador | 7.06.2017| 25|
+| Bultos pegacor | 7.06.2017| 92|
+|Total | | 2500|
 
 
 # Pedro (Cubierta)
