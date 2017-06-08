@@ -29,7 +29,7 @@
 | Nevera | 31.05.2017|500|
 | Separador Bano | 2.06.2017|750|
 | Horno+Estufa | 3.06.2017 | 1500|
-| Pago Materiales a Alvaro | *7.06.2017*| 2500|
+| Pago Materiales a Alvaro | 8.06.2017| 2500|
 |Total | | 27250|
 
 ### Pagos hechos por Alvaro 
@@ -85,7 +85,7 @@
 | Adelanto ~50% Cubierta | 24.04.2017 | 2000|
 | Pago ~25% Cubierta| 13.05.2017 | 1000|
 | Vidrios 100% | 31.05.2017 | 1400|
-| Pago ~25% Cubierta | *7.07.2017*| 1000|
+| Pago ~25% Cubierta | 8.07.2017| 1000|
 |Total | | 5400|
 
 # Didier 
@@ -105,6 +105,6 @@
 | ------- | ------| ----------- |
 |Adelanto 50% | 10.05.2017 | 7000|
 |Pago 25% | 2.06.2017| 3500|
-| Pago Final | *7.07.2017* | 3820|
+| Pago Final | 8.07.2017 | 3820|
 |Total | | 14320|
 
