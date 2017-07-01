@@ -33,6 +33,8 @@
 | Pago Materiales a Alvaro | 1.07.2017| 600|
 |Total | | 27850|
 
+A la fecha 1.07.2017 Alvaro tiene 320 adicionales para gastos.
+
 ### Pagos hechos por Alvaro 
 
 |Concepto | Fecha | Costo (KCOP)|
