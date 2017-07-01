@@ -99,7 +99,9 @@
 | Tubo nuevo | 450|
 | Biblioteca | 900|
 | Vidrios | 1400|
-|Total |  6790|
+| transporte| 100|
+| platinas adicionales | 50|
+|Total |  6940|
 
 ### Pagos 
 
@@ -108,8 +110,9 @@
 | Adelanto ~50% Cubierta | 24.04.2017 | 2000|
 | Pago ~25% Cubierta| 13.05.2017 | 1000|
 | Vidrios 100% | 31.05.2017 | 1400|
-| Pago ~25% Cubierta | 8.07.2017| 1000|
-|Total | | 5400|
+| Pago ~25% Cubierta | 8.06.2017| 1000|
+| Pago bibliotecas + resto obra | 1.07.2017| 1550|
+|Total | | 6950|
 
 # Didier 
 
