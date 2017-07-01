@@ -6,34 +6,7 @@
 |Mano de Obra |  9000|
 |Total |  9000|
 
-### Pagos Obra+Materiales
 
-|Concepto | Fecha | Costo (KCOP)|
-| ------- | ------| ----------- |
-| Adelanto Mano de Obra Alvaro | 14.03.2017 | 5000|
-| Materiales para piso | 1.04.2017 | 1300|
-| Lozas Ceramica | 12.04.2017 | 900|
-| Pago Mano de Obra Alvaro | 24.04.2017 | 2000| 
-| Lozas Ceramica Cocina | 26.04.2017 | 200|
-| Pegante lozas | 9.05.2017| 500|
-| Pintura paredes/techo | 9.05.2017| 400|
-| Cambio Contador Electrico | 16.05.2017| 600|
-| Piso Patio | 18.05.2017|700|
-| Adelanto Madera Piso | 18.05.2017| 1000|
-| Pago Completo Madera Piso | 19.05.2017| 2800|
-| Pago Mano de Obra Alvaro| 20.05.2017| 2000|
-| Pago Materiales a Alvaro | 24.05.2017 | 1000|
-| Ducha-Lavamanos-tubos-etc | 31.05.2017| 1200|
-| Calentador | 31.05.2017| 400|
-| Lavadora | 31.05.2017| 2000|
-| Nevera | 31.05.2017|500|
-| Separador Bano | 2.06.2017|750|
-| Horno+Estufa | 3.06.2017 | 1500|
-| Pago Materiales a Alvaro | 8.06.2017| 2500|
-| Pago Materiales a Alvaro | 1.07.2017| 600|
-|Total | | 27850|
-
-A la fecha 1.07.2017 Alvaro tiene 320 adicionales para gastos.
 
 ### Pagos hechos por Alvaro 
 
@@ -87,6 +60,34 @@ A la fecha 1.07.2017 Alvaro tiene 320 adicionales para gastos.
 |cinta | 1.07.2017| 6.5|
 |Total | | 3776|
 
+### Pagos Obra+Materiales
+
+|Concepto | Fecha | Costo (KCOP)|
+| ------- | ------| ----------- |
+| Adelanto Mano de Obra Alvaro | 14.03.2017 | 5000|
+| Materiales para piso | 1.04.2017 | 1300|
+| Lozas Ceramica | 12.04.2017 | 900|
+| Pago Mano de Obra Alvaro | 24.04.2017 | 2000| 
+| Lozas Ceramica Cocina | 26.04.2017 | 200|
+| Pegante lozas | 9.05.2017| 500|
+| Pintura paredes/techo | 9.05.2017| 400|
+| Cambio Contador Electrico | 16.05.2017| 600|
+| Piso Patio | 18.05.2017|700|
+| Adelanto Madera Piso | 18.05.2017| 1000|
+| Pago Completo Madera Piso | 19.05.2017| 2800|
+| Pago Mano de Obra Alvaro| 20.05.2017| 2000|
+| Pago Materiales a Alvaro | 24.05.2017 | 1000|
+| Ducha-Lavamanos-tubos-etc | 31.05.2017| 1200|
+| Calentador | 31.05.2017| 400|
+| Lavadora | 31.05.2017| 2000|
+| Nevera | 31.05.2017|500|
+| Separador Bano | 2.06.2017|750|
+| Horno+Estufa | 3.06.2017 | 1500|
+| Pago Materiales a Alvaro | 8.06.2017| 2500|
+| Pago Materiales a Alvaro | 1.07.2017| 600|
+|Total | | 27850|
+
+A la fecha 1.07.2017 Alvaro tiene 320 adicionales para gastos.
 
 # Pedro 
 
