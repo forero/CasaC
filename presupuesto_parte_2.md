@@ -30,7 +30,8 @@
 | Separador Bano | 2.06.2017|750|
 | Horno+Estufa | 3.06.2017 | 1500|
 | Pago Materiales a Alvaro | 8.06.2017| 2500|
-|Total | | 27250|
+| Pago Materiales a Alvaro | 1.07.2017| 600|
+|Total | | 27850|
 
 ### Pagos hechos por Alvaro 
 
