@@ -60,7 +60,29 @@
 | Thinner | 7.06.2017| 4|
 | Electricidad contador | 7.06.2017| 25|
 | Bultos pegacor | 7.06.2017| 92|
-|Total | | 2500|
+| Adhesivo guarda escoba| 1.07.2017| 20.3|
+| Guardaescoba| 1.07.2017|25.0|
+| Boquilla  | 1.07.2017|22.0|
+|zikaflex 1| 1.07.2017|26.8|
+|zikaflez 3| 1.07.2017| 80.4|
+|trasteo | 1.07.2017| 150.0|
+|perfil | 1.07.2017|5.0|
+| bisturies| 1.07.2017|3.0|
+| Union manguera | 1.07.2017|3.8|
+| Chazos| 1.07.2017|3.2|
+|acido nitrico | 1.07.2017|22.1|
+|drwywall | 1.07.2017| 170.1|
+| enchufes| 1.07.2017|50.0|
+| enchufes cocina | 1.07.2017| 120.0|
+|interruptores | 1.07.2017| 32.0|
+|laca piso | 1.07.2017| 60.0|
+|dilatadores| 1.07.2017| 4.4|
+| pintura piso| 1.07.2017| 40.0|
+| pulida piso | 1.07.2017| 350.0|
+| pintura piso | 1.07.2017| 70.0|
+|boquilla + yeso | 1.07.2017|11.5|
+|cinta | 1.07.2017| 6.5|
+|Total | | 3776|
 
 
 # Pedro 
