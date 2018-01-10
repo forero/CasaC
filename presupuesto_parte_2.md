@@ -88,7 +88,6 @@
 | Pago Materiales a Alvaro | 1.07.2017| 320|
 |Total | | 28170|
 
-A la fecha 1.07.2017 Alvaro tiene 320 adicionales para gastos.
 
 # Pedro 
 
