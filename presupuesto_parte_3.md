@@ -11,5 +11,9 @@
 | Varios Homecenter | 9.01.2017 | 390|
 | Lamparos Cuartos | 9.01.2017 | 150|
 | Lampara Sala | 9.01.2017 | 200 |
-| CAmpana de lujo + Bombillo | 9.01.2017 | 100 |
-| Total | 9.01.2018 | 3420|
+| Campana de lujo + Bombillo | 9.01.2017 | 100 |
+| Adelanto Biblioteca | 15.01.2017| 500|
+| Azulejos | 15.01.2017 | 200|
+| Piso (pago final) | 15.01.2017 | 400|
+| Adelanto chimenea (50%)| 19.01.2017 | 300|
+| Total | 9.01.2018 | 4820|
