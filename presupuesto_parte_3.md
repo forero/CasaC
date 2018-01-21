@@ -16,4 +16,5 @@
 | Azulejos | 15.01.2017 | 200|
 | Piso (pago final) | 15.01.2017 | 400|
 | Adelanto chimenea (50%)| 19.01.2017 | 300|
-| Total | 9.01.2018 | 4820|
+| Maderas Puerta | 21.01.2017 | 50|
+| Total | 9.01.2018 | 4870|
