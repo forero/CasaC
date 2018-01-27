@@ -20,4 +20,4 @@
 | Pago final biblioteca | 26.01.2017 | 800|
 | Pago final chimenea | 27.01.2017 | 300 |
 | Espejo | 27.01.2017 | 100 |
-| Total | 9.01.2018 | 5970|
+| Total | 9.01.2018 | 6070|
