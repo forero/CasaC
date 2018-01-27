@@ -17,4 +17,6 @@
 | Piso (pago final) | 15.01.2017 | 400|
 | Adelanto chimenea (50%)| 19.01.2017 | 300|
 | Maderas Puerta | 21.01.2017 | 50|
-| Total | 9.01.2018 | 4870|
+| Pago final biblioteca | 26.01.2017 | 800|
+| Pago final chimenea | 27.01.2017 | 300 |
+| Total | 9.01.2018 | 5970|
