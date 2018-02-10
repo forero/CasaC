@@ -20,4 +20,7 @@
 | Pago final biblioteca | 26.01.2017 | 800|
 | Pago final chimenea | 27.01.2017 | 300 |
 | Espejo | 27.01.2017 | 100 |
-| Total | 9.01.2018 | 6070|
+| Espejo | 10.02.2017 | 70|
+| Madera adicional | 10.02.2017 | 200|
+| Pachakuti | 10.02.2017 | 500 |
+| Total | 9.01.2018 | 6740|
